@@ -1,0 +1,7 @@
+{
+   "name": "Example Token",
+   "description": "Official token",
+   "symbol": "EXTO",
+   "decimals": 9,
+   "image_data": "https://raw.githubusercontent.com/mrapollodev/mky/refs/heads/main/logo.png"
+}
